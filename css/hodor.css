@@ -1,0 +1,27 @@
+#hodor {
+	color: white;
+	border-radius: 4px;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+	font-size: 200%;
+}
+
+div {
+	width: 185px;
+	height: 79px;
+	margin: auto;
+	position: absolute;
+	top: 0; left: 0; bottom: 0; right: 0;
+}
+
+@media (min-width: 768px) {
+
+	#hodor {
+		font-size: 500%;
+	}
+
+	div {
+		width: 466px;
+		height: 197px;
+	}
+
+}
