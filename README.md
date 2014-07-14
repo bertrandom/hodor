@@ -35,8 +35,6 @@ HODOR:
 88        88    `"Y8888Y"'    88888888Y"'      `"Y8888Y"'    88      `8b 
 ```
 
-HODOR [^1]
-
 HODOR | HODOR | HODOR
 ------------ | ------------- | ------------
 HODOR | HODOR | HODOR
@@ -45,5 +43,3 @@ HODOR | HODOR | HODOR
 ~~HODOR~~
 
 License: HODOR
-
-[^1]: HODOR
