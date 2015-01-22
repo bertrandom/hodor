@@ -16,7 +16,7 @@ function hodor() {
 
         hodorSound = soundManager.createSound({
             id: 'hodor' + index,
-            url: '/audio/hodor' + index + '.mp3'
+            url: './audio/hodor' + index + '.mp3'
         });
 
     }
@@ -32,7 +32,7 @@ function changeColor() {
 changeColor();
 
 soundManager.setup({
-    url: '/swf/',
+    url: './swf/',
     onready: function() {
 
         document.getElementById('hodor').onclick = function() {
